@@ -6,3 +6,4 @@ added to new github and simple
 
 add merge...OK
 
+issue-101 is fixed
